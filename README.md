@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anonyme01z
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML AND CSS
+- 🌱 I’m currently learning HTML | CSS | JavaScript | Java
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me- Olusogadaniel001@gmail.com
 
