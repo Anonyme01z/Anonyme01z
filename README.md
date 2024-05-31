@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anonyme01z
-- 👀 I’m a Software Developer
+- 👀 I’m a QA ENGINEER
 - 🌱 I’m currently working as an Automation Engineer
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me- Olusogadaniel001@gmail.com
